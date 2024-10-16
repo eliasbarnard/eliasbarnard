@@ -5,8 +5,8 @@
 - ⚡ Fatos curiosos: Nerd, Geek e essas coisas ai... Ah, adoro Open-Source!
 <div align="center">
   <a href="https://github.com/eliasbarnard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasbarnard&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasbarnard&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasbarnard&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasbarnard&layout=compact&langs_count=7&theme=ambient_gradient"/>
 </div>
   
 <div> 
